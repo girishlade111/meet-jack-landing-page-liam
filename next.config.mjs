@@ -9,6 +9,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export',
+  basePath: '/meet-jack-landing-page-liam',
 }
 
 export default nextConfig

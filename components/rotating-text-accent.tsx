@@ -9,7 +9,7 @@ export default function RotatingTextAccent() {
       <div className="relative w-full h-full">
         {/* Central logo */}
         <div className="absolute inset-0 flex items-center justify-center">
-          <img src="/circular-logo.svg" alt="Logo" className="w-12 h-12 md:w-16 md:h-16" />
+          <img src="/meet-jack-landing-page-liam/circular-logo.svg" alt="Logo" className="w-12 h-12 md:w-16 md:h-16" />
         </div>
 
         {/* Rotating text */}

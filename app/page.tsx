@@ -43,17 +43,17 @@ export default function Home() {
             <div className="flex items-center justify-center mb-3.5 md:gap-11">
               {/* Front view */}
               <div className="flex flex-col items-center">
-                <img src="/jack-front.png" alt="Jack front view" className="w-48 h-48 md:w-56 md:h-56 object-contain" />
+                <img src="/meet-jack-landing-page-liam/jack-front.png" alt="Jack front view" className="w-48 h-48 md:w-56 md:h-56 object-contain" />
               </div>
 
               {/* Side view */}
               <div className="flex flex-col items-center">
-                <img src="/jack-side.png" alt="Jack side view" className="w-48 h-48 md:w-56 md:h-56 object-contain" />
+                <img src="/meet-jack-landing-page-liam/jack-side.png" alt="Jack side view" className="w-48 h-48 md:w-56 md:h-56 object-contain" />
               </div>
 
               {/* Back view */}
               <div className="flex flex-col items-center">
-                <img src="/jack-back.png" alt="Jack back view" className="w-48 h-48 md:w-56 md:h-56 object-contain" />
+                <img src="/meet-jack-landing-page-liam/jack-back.png" alt="Jack back view" className="w-48 h-48 md:w-56 md:h-56 object-contain" />
               </div>
             </div>
 
